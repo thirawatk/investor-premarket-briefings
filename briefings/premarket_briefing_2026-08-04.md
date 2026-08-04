@@ -1,12 +1,8 @@
-# US Pre-Market Briefing — Tuesday, August 4, 2026
-
-*Generated: 2026-08-03 13:08 ET | Data as of Aug 3 close / overnight futures*
-
----
+# 🇺🇸 US Pre-Market Briefing — Tuesday, August 4, 2026
 
 ## 1. Executive Summary
 
-US equities surged on Monday as President Trump called off a planned military strike on Iran and announced new peace negotiations, triggering a sharp relief rally. The S&P 500 (+1.28%), Nasdaq (+1.98%), and Dow (+0.89%) all closed near session highs, while WTI crude collapsed ~6% to $79.61. The VIX dropped to 15.61, reflecting a rapid unwind of geopolitical risk premium. Treasury yields declined across the curve, with the 10Y falling to 4.69% and the 2Y to 4.26%. Overnight, futures are modestly lower as markets digest the rally and look ahead to a heavy earnings slate (AMD, Caterpillar, Pfizer, McDonald's) and Friday's July jobs report. Fed rate-hike expectations for September remain elevated at ~61%, keeping the macro backdrop fragile despite today's risk-on tone.
+Markets are surging to record highs as a confluence of bullish catalysts aligns: Trump's announcement of a Hormuz deal with Iran crushed oil prices (-5%), Palantir's blowout earnings (+93% revenue growth) reassured AI demand, and the Dow is posting its biggest point gain in months. The S&P 500 has topped its June closing record, the Dow is at an all-time high, and the Nasdaq is up 2.3%. Treasury yields are falling sharply (10Y -6bp to 4.63%) as oil-driven inflation fears recede. The only cloud: three Fed officials dissented at last week's meeting in favor of a rate hike, and CME FedWatch now prices a 65% chance of a September hike — a tension the market is choosing to ignore for now.
 
 ---
 
@@ -14,82 +10,93 @@ US equities surged on Monday as President Trump called off a planned military st
 
 | Asset | Level | Change | Context |
 |-------|-------|--------|---------|
-| S&P 500 | 7,585.71 | +1.28% | Near record high; best day in weeks on Iran de-escalation |
-| Dow Jones | 52,951.82 | +0.89% | 4th straight monthly gain; breadth improving |
-| Nasdaq | 25,875.39 | +1.98% | Big Tech led; Amazon +5% post-earnings |
-| Russell 2000 | 2,972.89 | +1.42% | Small caps participate, healthy sign |
-| VIX | 15.61 | -2.38% | Back to complacency zone; 52-wk range 13.38-35.30 |
-| 10Y Treasury | 4.69% | -5.5 bps | Rally in bonds as war risk fades |
-| 2Y Treasury | 4.26% | -3.1 bps | Still pricing ~61% Sept hike probability |
-| DXY | 99.97 | +0.06% | Dollar flat; yen intervention ongoing |
-| EUR/USD | 1.1503 | -0.21% | Eurozone inflation at 3.2%; ECB hiking |
-| USD/JPY | 156.87 | -0.44% | Coordinated US-Japan intervention supporting yen |
-| WTI Crude (Sep) | $79.61 | -5.98% | Plunged on Iran peace talks; down from $84.67 |
-| Gold (Dec) | $4,092.20 | -0.36% | Pulling back from record highs; worst quarter since 2013 |
-| Copper (Sep) | $6.54 | +1.15% | AI/data center demand driving record prices |
+| **S&P 500** | 7,731.55 | +131.05 (+1.72%) | 🔴 Record high — topped June closing record |
+| **Dow 30** | 54,183.58 | +1,005.17 (+1.89%) | 🔴 Record high — biggest point gain in weeks |
+| **Nasdaq** | 26,513.25 | +599.36 (+2.31%) | AI rally reignited by Palantir |
+| **Russell 2000** | 3,032.72 | +50.81 (+1.70%) | Small caps catching a bid |
+| **VIX** | 16.23 | +0.37 (+2.33%) | Low but ticked up — complacency zone |
+| **10Y Treasury** | 4.631% | -0.055 (-1.17%) | Falling on oil decline, safe-haven flows |
+| **2Y Treasury** | 4.196% | -0.06 | 10Y-2Y spread: +43bp (positive) |
+| **WTI Crude** | $76.29 | -$4.05 (-5.04%) | Iran deal hopes crush oil |
+| **Gold** | $4,149.80 | +$59.30 (+1.45%) | Risk-on but gold still bid — inflation hedge |
+| **Copper** | ~$6.45/lb | +4% in July | Manufacturing recovery signal |
+| **DXY** | 99.95 | +0.05 (+0.05%) | Flat — dollar holding near 7-week lows |
+| **EUR/USD** | 1.1531 | -0.15% | Euro steady vs. dollar |
+| **USD/JPY** | 157.53 | +0.22% | Yen weakens slightly |
+
+*Data as of ~1:05 PM EDT, August 4, 2026 (market open). Sources: Yahoo Finance, CNBC, Trading Economics.*
 
 ---
 
 ## 3. Key Themes
 
-**Iran De-escalation Sparked a Relief Rally, But the Fundamentals Haven't Changed**
-Trump's decision to call off what he called the "biggest attack since World War II" and return to negotiations removed the immediate geopolitical tail risk. Oil's 6% collapse is the clearest signal. However, the war is now in its sixth month, and previous talks have failed. The market is pricing a best-case scenario; any breakdown in negotiations could reverse yesterday's gains just as quickly.
+### 🛢️ **Oil Crashes 5% on Iran Deal Hopes — The Biggest Macro Shift**
+Trump called off planned strikes on Iran and claimed the US and Iran had reached "the perimeters of a peace deal" to reopen the Strait of Hormuz, which has been blockaded since February 28. Brent crude fell below $80. This is the single biggest macro catalyst today — it slashes inflation expectations, pulls down Treasury yields, and removes the geopolitical risk premium that dominated July. **But this is provisional**: Israel has warned it will attack "regardless of external commitments" if Iran restarts nuclear or ballistic-missile programs. The relief rally could reverse on a single headline.
 
-**Fed Hike Odds Are Still Elevated — This Is Not a Dovish Pivot**
-CME FedWatch shows a 61.4% probability of a 25bp hike on September 16 (up from 50.6% a month ago). The Fed held rates at 3.50%-3.75% in July with three dissents. Inflation remains sticky, and the labor market — while cooling — is not weak. Friday's jobs report (consensus: ~83K-91K, unemployment 4.3%) will be the next major test. A strong number could push hike odds higher and pressure equities.
+### 🤖 **Palantir's Blowout Earnings Reignite AI Trade**
+Palantir (PLTR) surged 29% to $162.58 after reporting Q2 revenue of $1.94B (+93% YoY), crushing the $1.81B consensus. Adjusted EPS of $0.41 beat by $0.07. The company raised full-year revenue guidance to $8.154B. Per SeekingAlpha, the key number was 134% — the expected full-year growth rate for U.S. commercial revenue. Per Motley Fool, CEO Alex Karp made a "bold call" on the earnings call. StockAnalysis.com shows 32 analysts with a consensus "Buy" rating and $187.16 average price target (+15% upside). Strong Buy ratings increased from 16 in March to 20 in August. **However**: RPO (remaining performance obligations) flatlined at $4.9B, signaling potential growth deceleration — a detail the bulls are ignoring today.
 
-**Earnings Season Is the Real Driver This Week**
-AMD reports after the close today (consensus EPS: $1.61). The chip sector has been volatile — AMD fell 14% over the past month on profit-taking, but analyst sentiment remains overwhelmingly bullish (Strong Buy consensus, $576.55 average target, +20% upside). Caterpillar (BMO today, consensus EPS: $6.20) is a bellwether for industrial demand and AI infrastructure spending. Pfizer, McDonald's, Merck, and Amgen also report this week.
+### 📉 **Treasury Yields Fall as Oil Eases — But the Hawkish Dissent Lingers**
+The 10Y yield dropped to 4.631% (-6bp) and the 2Y fell to 4.196% as oil-driven inflation fears recede. But here's the tension: at the July 29 FOMC meeting, the Fed held rates at 3.50-3.75% for the fifth straight meeting — but **three officials dissented in favor of a hike**. This is the most hawkish dissent in years. CME FedWatch now prices a **65% probability of a 25bp hike in September**. The manufacturing PMI hit 55.6, a four-year high. The bond market is pricing in easing; the Fed is signaling tightening. Something has to give.
 
-**Market Concentration Is Extreme — The "Magnificent Seven" Are ~1/3 of the S&P 500**
-The top 10 stocks now make up over 40% of the S&P 500, per Motley Fool data. This concentration means index-level moves are driven by a handful of names. Amazon's post-earnings surge alone added significant points to the Nasdaq yesterday. While breadth improved on Monday (Russell 2000 +1.4%), the underlying fragility of narrow leadership remains a structural risk.
+### 🍔 **McDonald's: EPS Beat, Revenue Miss — Consumer Caution Confirmed**
+McDonald's (MCD) reported Q2 adjusted EPS of $3.38 (beat by $0.06) but revenue of $7.1B missed consensus by 0.51%. U.S. same-store sales grew just 0.8%, missing the 1.06% estimate. U.S. customer visits declined. This is consistent with the "value meal" strategy working on margins but not driving traffic. The consumer is stretched — a theme that will dominate the rest of earnings season.
 
-**Sentiment Data: AMD Strong Buy, CAT Mixed, PFE Cautious**
-- **AMD**: 61.4% bullish / 30.7% neutral / 7.9% bearish (Google Finance/TipRanks). StockAnalysis.com: 51 analysts, Strong Buy consensus, $576.55 target (+20.1%).
-- **Caterpillar**: 31.4% bullish / 42.9% neutral / 25.7% bearish. 28 analysts, Buy consensus, $958.83 target (+16.8%). Down 23% over the past month on AI infrastructure retreat and downgrade concerns.
-- **Pfizer**: 59.5% bullish / 40.5% neutral. 28 analysts, Buy consensus, $28.75 target (+15.5%). Focus on non-COVID pipeline and interim management transition.
-- **McDonald's**: 25.9% bullish / 63.0% neutral / 11.1% bearish. 34 analysts, Buy consensus, $323.90 target (+20.7%). Consumer pressure and traffic deceleration are headwinds.
+### 📸 **Snap: Revenue Acceleration, but Specs Questions Sidestepped**
+Snap (SNAP) reported Q2 results showing "significant revenue acceleration and explosive free cash flow growth," but CEO Evan Spiegel sidestepped investor questions about preorder demand for the company's Specs smart glasses ahead of the September launch. The stock is a sentiment gauge for the AR/wearables thesis.
 
-**Commodity Divergence: Oil Collapses, Copper Booms, Gold Corrects**
-WTI's 6% drop is the headline, but copper's +1.15% move to $6.54/lb is equally important — it's being driven by AI data center demand, not war. Gold is down 0.36% at $4,092, continuing its worst quarterly performance since 2013. The commodity complex is telling a story of growth optimism (copper) and risk premium unwinding (oil, gold).
+### 📊 **Earnings Season: Strong but Narrow**
+With 66% of S&P 500 companies having reported, FactSet forecasts Q2 earnings growth of 24.7% — the second straight quarter above 20%. But the strength is concentrated in AI/tech. The "broadening" thesis (consumer discretionary, industrials) needs validation this week from Caterpillar (raised guidance today) and the rest of the mega-cap reporters.
+
+### 💰 **Gold at $4,150 — The Anti-Dollar Trade Persists**
+Gold hit $4,149.80 (+1.45%) despite the risk-on rally. This is unusual — gold and stocks rising together signals that investors are hedging against both geopolitical tail risk AND monetary policy error. The DXY at 99.95 is near 7-week lows. Central bank buying and de-dollarization narratives remain intact.
 
 ---
 
 ## 4. What to Watch TODAY
 
-| Time (ET) | Time (BKK) | Event | Why It Matters |
-|-----------|------------|-------|----------------|
-| 7:30 AM | 6:30 PM | Caterpillar (CAT) Q2 earnings — BMO | Industrial bellwether; AI power demand narrative on the line |
-| 8:30 AM | 7:30 PM | US Trade Balance (June) | Deficit expected ~$109B; tariff impact in focus |
-| 9:00 AM | 8:00 PM | Pfizer (PFE) Q2 earnings — BMO | Pipeline updates, guidance under interim CEO |
-| 10:00 AM | 9:00 PM | Factory Orders (June) | Manufacturing health check |
-| After Close | ~4:00 AM (Aug 5) | AMD Q2 earnings | Semiconductor sector sentiment; data center revenue critical |
-| After Close | ~4:00 AM (Aug 5) | Arista Networks (ANET) Q2 earnings | Networking/AI infrastructure read-through |
-| After Close | ~4:00 AM (Aug 5) | Amgen (AMGN) Q2 earnings | Biotech/pharma sector sentiment |
+| Time (ET) | Time (BKK) | Event | Impact |
+|-----------|------------|-------|--------|
+| 8:30 AM | 7:30 PM | **JOLTS Job Openings (June)** | 🔴 HIGH — Key labor market signal ahead of Friday's NFP |
+| 10:00 AM | 9:00 PM | **Factory Orders (June)** | 🟡 MEDIUM — Manufacturing demand gauge |
+| 10:00 AM | 9:00 PM | **Trade Balance (June)** | 🟡 MEDIUM — Tariff impact on trade flows |
+| 10:00 AM | 9:00 PM | **ISM Services PMI (July)** | 🔴 HIGH — Services sector health check |
+| All Day | — | **Earnings: AMD, Disney, Uber, Lyft** | 🔴 HIGH — AI (AMD), consumer (DIS), gig economy (UBER/LYFT) |
+| All Day | — | **Iran deal developments** | 🔴 HIGH — Any reversal crushes today's rally |
 
 ---
 
 ## 5. The Hard Truth — Damodaran Lens
 
-**You are being paid to take risk again — but the compensation is terrible.**
+**The market is celebrating a "deal" that doesn't exist yet.** Trump claimed "the perimeters" of a Hormuz agreement, but no text has been published, no timeline set, and Israel has explicitly stated it reserves the right to strike Iran unilaterally. Oil is pricing in a best-case scenario that has a meaningful probability of unraveling.
 
-The S&P 500 is trading at a Shiller PE of ~40.9, near the highest level in history (only exceeded briefly in 1999-2000). The equity risk premium is thin. The 10Y Treasury at 4.69% offers a real return of ~2% after inflation — historically, when bonds offer this yield and stocks offer a 2.4% earnings yield, stocks are priced for perfection.
+**The earnings "beat" is a mirage of expectations management.** Yes, S&P 500 earnings are growing 24.7% — but analysts slashed estimates by 8% heading into the quarter. Beating reduced expectations is not the same as genuine growth. Strip out the Mag 7 and the picture looks far less impressive.
 
-Yesterday's rally was a relief rally, not a fundamental repricing. The Iran war hasn't ended; it paused. The Fed hasn't pivoted; it's leaning hawkish. Earnings growth is strong but concentrated in a handful of AI names. If you are buying the index here, you are making a bet that (a) AI capex continues to accelerate, (b) inflation moderates without a recession, and (c) geopolitical risk stays contained. All three must go right.
+**The Fed dissent is the real story the market is ignoring.** Three officials voted for a hike — the most hawkish dissent in years. Manufacturing PMI at 55.6. The labor market, per today's JOLTS data, will tell us if they're right. If JOLTS comes in hot, the September hike thesis strengthens materially, and the 10-year yield above 4.70% becomes the base case.
 
-The value investor's playbook says: own quality companies with pricing power and low leverage. Avoid chasing momentum in a market where the top 10 names are 40% of the index. And keep dry powder — because when the VIX is 15 and everyone is bullish, the next 10% move is more likely down than up.
+**Valuations are stretched.** The S&P 500 at record highs with a VIX at 16.23 is a complacency setup. Palantir at $162.58 trades at 83x forward revenue — a multiple that requires flawless execution for years. The risk/reward at these levels is asymmetric to the downside.
+
+**Gold at $4,150 is telling you something the stock market isn't listening to.** When gold and stocks rise together, it means the market is pricing in multiple conflicting scenarios simultaneously — and the hedge is the smarter trade.
 
 ---
 
 ## 6. Weekly Calendar
 
-| Day | Date | Release | Impact |
-|-----|------|---------|--------|
-| Mon | Aug 3 | S&P Manufacturing PMI Final (Jul) | Low |
-| Tue | Aug 4 | Trade Balance (Jun); Factory Orders (Jun); CAT, PFE, MCD, AMD, ANET, AMGN earnings | High |
-| Wed | Aug 5 | ADP Employment (Jul); ISM Services PMI (Jul); MRK, GILD, BKNG earnings | High |
-| Thu | Aug 6 | Initial Jobless Claims; DUK, EOG earnings | Medium |
-| Fri | Aug 7 | **Nonfarm Payrolls (Jul); Unemployment Rate (Jul)**; MPC earnings | **Very High** |
+| Day | Release | Impact |
+|-----|---------|--------|
+| **Mon Aug 3** | ISM Manufacturing PMI (Jul) — 55.6 ✅ | 4-year high, hawkish signal |
+| **Mon Aug 3** | Palantir, Snap earnings ✅ | PLTR +29%, SNAP mixed |
+| **Tue Aug 4** | **JOLTS Job Openings (Jun)** | 🔴 Labor market signal |
+| **Tue Aug 4** | Factory Orders (Jun) | 🟡 Manufacturing demand |
+| **Tue Aug 4** | Trade Balance (Jun) | 🟡 Tariff impact |
+| **Tue Aug 4** | **ISM Services PMI (Jul)** | 🔴 Services sector health |
+| **Tue Aug 4** | Earnings: AMD, Disney, Uber, Lyft | 🔴 AI + consumer + gig |
+| **Wed Aug 5** | ADP Employment (Jul) | 🔴 Private payrolls preview |
+| **Wed Aug 5** | S&P Final Services PMI (Jul) | 🟡 Services confirmation |
+| **Thu Aug 6** | Initial Jobless Claims | 🟡 Layoff pulse |
+| **Fri Aug 7** | **Nonfarm Payrolls (Jul)** | 🔴🔴 THE number for Fed policy |
+| **Fri Aug 7** | Unemployment Rate (Jul) | 🔴🔴 Recession signal? |
+| **Fri Aug 7** | Average Hourly Earnings (Jul) | 🔴 Wage inflation |
 
 ---
 
