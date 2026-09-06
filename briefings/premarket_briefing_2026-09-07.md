@@ -29,7 +29,7 @@ US–Iran tensions spiked after attacks on oil tankers in the Strait of Hormuz, 
 
 ## 📅 The Next 72 Hours
 - **Today (Mon Sep 7):** Labor Day — everything closed. Equity futures reopen 6:00pm ET. No data, no earnings.
-- **Tue Sep 8:** No major US releases confirmed; consumer credit possible (unconfirmed). Earrings quiet.
+- **Tue Sep 8:** No major US releases confirmed; consumer credit possible (unconfirmed). Earnings quiet.
 - **Wed Sep 9:** Fed Beige Book ~2:00pm ET — last color before the pre-FOMC blackout (expected, unconfirmed).
 - **This week's real catalysts — (CRITICAL) Fri Sep 11 8:30am ET: August CPI — the September-FOMC swing factor. (CRITICAL) Wed Sep 16 2:00pm ET: FOMC decision — same day as Circle's Arc mainnet launch. Thu Sep 10: PPI expected (unconfirmed).**
 
