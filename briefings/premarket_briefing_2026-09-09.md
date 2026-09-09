@@ -1,46 +1,51 @@
 # 🇺🇸 US Pre-Market Briefing — Wednesday, Sep 09, 2026
-*Captured 2026-09-09 00:06 ICT (Tue Sep 8 ~17:06 UTC, US session live prints — market was open at capture; Mon Sep 7 was the Labor Day holiday, so "vs Fri" = vs Sep 4 close). Sources: Yahoo Finance API, BLS, NYT, Bloomberg, GlobeNewswire.*
+*Live midday capture 1:10 PM ET / 12:10 AM BKK (Sep 10). Sources: Yahoo Finance live quotes, CoinGecko (BTC/ETH verified), TradingEconomics, CME FedWatch coverage, press wires.*
 
 ## 📊 Where We Stand
-| Asset | Level (last close or live) | Move | Context |
+| Asset | Level | Day / Wk | Context |
 |---|---|---|---|
-| S&P 500 (spot / ES) | 7,694.81 / 7,694.75 | −0.3% / −0.4% vs Fri | Drifting off Sep 3 record ~7,748; oil weighs |
-| Nasdaq (spot / NQ) | 26,498.38 / 29,601.50 | −0.0% / +0.1% vs Fri | Holding near record; semis bid |
-| Dow (spot / YM) | 52,902.86 / 52,885 | −1.0% / −1.0% vs Fri | Clearest loser — oil-sensitive industrials |
-| US 10Y | 4.79% | +1bp w/w | Range-bound 4.76–4.80 |
-| WTI / Brent | $92.17 / $97.46 | +0.8% / +1.2%; Brent +13% MoM, +42% YoY | Grinding toward $100 on Hormuz standoff |
-| Gold | $4,440.30 | +0.2%; near records (Sep 3 high ~$4,492) | Safe-haven bid intact |
-| VIX | 15.30 | +5.3% vs Fri | Complacency cracking, still low |
-| DXY | 98.90 | −0.3% | Yen strength on BOJ hike expectations |
-| BTC | ~$78,788 | −2.4% over the long weekend | Risk asset tone softening |
+| S&P 500 (index / ES fut) | 7,639.9 / 7,647 | -0.4% / -0.9% | 3rd straight down session |
+| Nasdaq (index / NQ fut) | 26,261 / 29,469 | -0.6% / -0.5% | QQQ -0.3%; semis the only green lane |
+| Dow (index / YM fut) | 52,452 / 52,485 | -0.6% / -2.1% | -336 pts today; worst major index this week |
+| US 10Y (^TNX) | 4.845% | +3.9bp / +12.5bp | 30Y ~5.25%; supply + oil-inflation bid |
+| WTI / Brent (CL/BZ) | $95.71 / $100.68 | +2.9% / +11.6% wk (WTI) | Saudi tankers hit in Strait of Hormuz; Iran strike threats; Brent crossed $100 |
+| Gold (GC) | $4,452 | +1.3% / +0.5% | Safe-haven bid returning |
+| VIX | 16.31 | +3.8% / +9.3% | Fear building beneath a flat-looking tape |
+| DXY | 98.76 | -0.1% / -0.7% | Dollar soft despite hike talk |
+| BTC / ETH | $78,751 / $2,495 | +0.4% / +1.9% wk | Rangebound 77–80k; CoinGecko confirms 78,774 |
 
-Overnight tape: US–Iran conflict in the Strait of Hormuz dominates — crude traffic has plunged and Iran refuses to reopen the waterway — pushing Brent toward $100 while the Dow bleeds and tech clings to records. Asia followed the mixed tape (yen strong on BOJ; Korean chip stocks supportive). Week-to-date the S&P is ~−0.7%, Nasdaq ~−0.2%, Dow ~−1.0%.
+Supply-shock tape: the S&P has slipped three straight sessions while VIX rose every day; damage is in cyclicals, small caps (IWM -1.3% today) and rate-sensitive names; AI semis (SMH +3.9% wk) and energy (XLE +3.9% wk) are the only two bids. Asia/Europe heavy on crude's push toward $100 and the ECB hike expectation.
+
+Breadth: Narrowing, two-lane tape — leaders: Energy (XLE, oil tailwind) and AI semis (SMH/XLK); laggards: Utilities (XLU -1.3% d) and Financials (XLF -1.6% wk). Rotation into inflation beneficiaries, out of rate-sensitive equity. *(stockanalysis.com sector page down — SPDR proxies used.)*
+
+Credit pulse: HYG -0.1% / LQD -0.2% today, TLT -1.4% wk — credit orderly while equities wobble; no spread blowout yet, but long-duration keeps bleeding toward a 5.25% 30Y.
 
 ## 🔑 Two Big Stories
-1. **The Hormuz standoff is now the macro story — and it's a supply-side shock.** The US and Iran have traded strikes on shipping, Houthi attacks continue, and Iran says it will expand control of the strait, with oil traffic through the chokepoint plunging. WTI $92 / Brent $97 and climbing toward $100 with a straight line into Friday's CPI and next Wednesday's FOMC. This is precisely the input that breaks the "disinflation + rate cuts" narrative: every dollar of oil is a tax on the consumer and a question mark on the Fed's September path.
+1. **Oil at $100 and a Fed that's debating a HIKE.** WTI +11.6% in five sessions to $95.71, Brent $100.68, after Saudi tankers were hit in the Strait of Hormuz and Washington threatened fresh Iran strikes. The 10Y sits at 4.845%, the 30Y near 5.25%, mortgage rates at one-year highs — and the debate has flipped from "when do cuts resume?" to a ~50/50 split between hold at 3.50–3.75% and a +25bp HIKE at the Sept 16 FOMC (no Fed voter has cut since April, per FedWatch coverage). This is a reflation shock: stocks down three days, VIX +9% on the week, and Friday's August CPI is the swing factor.
 
-2. **AI infrastructure melt-up vs. everything else: AMD broke $500.** AMD +7% Tuesday to $510.82 (first close above $500, +186% in 12 months), lifted with Dell's record AI-server orders and broad semi bid; NVDA +2.4% intraday; even SPCX +4% on a data-center angle. Meanwhile the Dow fell 1%. Leadership is now two sectors wide, at record multiples, at the exact moment bonds, gold, and oil are all saying cost of capital is rising. That divergence is the whole ballgame this week.
+2. **AMD's +$68 week: the AI lane is crowded and expensive.** AMD at $523 (+3.4% today, +12.4% wk, **+136% in six months**) on the data-center boom — 50% revenue growth, CFO pitching a $3T TAM, mean analyst target $614. Meanwhile the S&P is down three straight days, the Dow -2.1% for the week, small caps -1.6%. SMH +3.9% wk vs XLF -1.6%: the market's entire return is coming from a handful of AI-semis. Momentum is real — but when it's the whole ballgame, one bad print unwinds the most.
 
 ## 📅 The Next 72 Hours
-- **Wed Sep 9 (today):** EIA crude inventories 10:30am ET — front and center given the oil spike; watch for a Hormuz headline any time. No top-tier data.
-- **Thu Sep 10:** PPI (Aug) 8:30am ET (BLS-confirmed) — producer prices will likely show the oil passthrough beginning; jobless claims 8:30am ET; Adobe earnings (est.) AMC.
-- **Fri Sep 11:** **CRITICAL — CPI (Aug) 8:30am ET (BLS-confirmed)**: the market's next rate-path checkpoint, landing one week before the FOMC; UMich sentiment prelim (expected) 10am ET.
-- *(Next week: FOMC decision + dot plot Wed Sep 16, 2pm ET — same day as CRCL's Arc launch.)*
+- **Wed Sep 9 (today):** EIA crude inventories (10:30 AM ET — at $100 oil, a draw goes straight into headlines); 10-yr Treasury auction (1:00 PM ET) adds supply pressure on yields; light AMC earnings slate, nothing watchlist-relevant.
+- **Thu Sep 10:** Initial jobless claims (8:30 AM ET); **ECB decision** — hike priced in, Lagarde presser ~8:45 AM ET (hawkish ECB compounds the global reflation trade); 30-yr auction (1:00 PM ET); **ORCL Q1 FY27 AMC** — options imply ±10%, the AI-cloud proxy for your semis thesis.
+- **Fri Sep 11:** 🇺🇸 **August CPI (8:30 AM ET) — CRITICAL.** Sept 16 FOMC is a coin flip between hold and hike; oil's +11.6% week has already leaked into the index — a hot print tips the Fed to hike. Michigan sentiment (10:00 AM ET).
+- **FedWatch:** Sept 16 FOMC ~50/50 hold @3.50–3.75% vs hike to 3.75–4.00% (CME FedWatch coverage; exact live odds not confirmed at capture).
+- **Next week:** FOMC Sep 15–16; **Circle Arc mainnet launch Sep 16** (your CRCL binary).
 
 ## 🧠 The Hard Truth (Damodaran Lens)
-The market is pricing a soft landing with AI compounding at a 10-year capex pace *while* a supply-side oil shock, record gold, and a 4.79% 10-year all say the discount rate is going up, not down. AMD at $510 (+186% in a year) doesn't just need the capex supercycle to continue — it needs it to never hiccup; any hyperscaler budget pause and the multiple compresses violently. That's paying for perfection, and perfection is a fragile asset. Your CRCL is the same bet in miniature: −10.6% underwater at $97.45 while you wait for Arc on Sep 16 — USDC at $74.4B clears your $70B floor, but at this price the launch is already fully priced, and your $60 exit trigger may come closer than it looks if the launch underwhelms. Meanwhile ZS at $163 (−13% since pre-earnings, −21% YTD) is the one name where fear is actually in the price: 24% ARR growth with AI-disruption paranoia priced in — the $150–155 add zone is where value and fear meet. GDDY fell to $93.89 on a bookings-accounting mess plus a securities class action — cheap is not safe; your $82 alert should only fire if the balance sheet holds up, otherwise it's a trap. The divergence to respect: Dow −1% and commodities bid against Nasdaq records — equities are saying "soft landing," the oil curve is saying "stagflation." One of them is wrong, and it's rarely the commodity.
+The market is pricing two incompatible worlds: AI semis at momentum multiples (AMD +136% in six months; CRCL ~61x earnings) while the risk-free rate — the denominator of every DCF — climbs toward 4.85–5.25% **with a hike on the table**. Rising discount rates lower the fair value of every long-duration asset; AMD and NVDA being up while the 10Y is at 4.845% and oil is at $100 means the equity bid is carried by narrative, not by a bond market that agrees. Credit's calm (HYG/LQD flat) is the tell: this isn't a solvency event, it's a slow repricing with the pain deferred to Friday's CPI. Your book, specifically: AMD at $523 requires perfection — share gains vs NVDA, a $3T TAM, 30%+ growth for a decade at a 5%+ discount rate; you'd be buying momentum, not value, and your edge evaporates the moment the tape rotates. CRCL at $94.5 (cost $109) is paying ~61x earnings for stablecoin dominance with USDC at $74.3B — only ~6% above your $70B exit tripwire — and a binary launch in 7 days; perfection means Arc adoption AND USDC compounding while the Fed hikes. GDDY (watchlist-only) is the cleanest lesson: a securities-fraud class action calls the earnings stream's integrity into question — cheapness without integrity is not margin of safety, and the $82 "value" entry would now be catching a falling knife. The gap: bonds and oil say inflation is re-accelerating; equity prices say nothing is wrong. Friday settles it.
 
 ## 💼 Your Book
 | Name | Price | Note |
 |---|---|---|
-| GDDY (NO POSITION) | $93.89 | Watchlist only, −7.3% Tue; bookings/accounting scandal + class action. $82 entry alert still ~13% away — let it fall, verify balance sheet before engaging |
-| CRCL | $97.45 | Cost $109 (−10.6%). USDC $74.4B OK vs $70B trigger. Arc launch Sep 16 = binary risk; hold but tighten mental stop |
-| ZS | $163.39 | −3.8% Tue, −13% vs pre-earnings. Add zone $150–155 now ~5–8% away — the reload line is in sight |
-| RDDT | $154.52 | Flat Tue; well above $130 entry alert. No action; volatility around licensing-renewal headlines |
-| AMD | $510.82 | +7% Tue, broke $500. Momentum strong but you're paying for perfection — trail, don't add at highs |
-| NVDA | $226.06 | −1.9% vs Fri; decent relative to AMD. Hold; adds only on pullback |
-| GULF | ฿62.50 | +1.2% vs Fri; mid-band (58–70), no alert. Quiet |
-| SPCX | $153.87 | +4.0% Tue; −32% from $226 peak, analysts flagging ~100x-revenue valuation. Speculative; size-aware holding |
+| GDDY — NO POSITION | $93.54 | Entry alert $82 NOT hit; -10% in a week on securities-fraud class action over customer acquisition (Oct 26 deadline); stay out |
+| CRCL | $94.54 | Cost $109 (-13%); -1.7% today; USDC $74.3B vs $70B exit tripwire; Arc launch Sep 16 = binary; exit <$60 post-launch |
+| ZS | $165.92 | +2.5% today but -9.9% wk; Q4 beat + conservative FY27 guide (Sep 3), PT cuts (Roth $215→$170); add zone $150–155 NOT reached |
+| RDDT | $147.11 | Entry alert $130 NOT hit; -3.9% wk; patience |
+| AMD | $523.14 | +12.4% wk, +136% 6mo — euphoria; no entry signal; trim candidate for existing holders |
+| NVDA | $224.07 | +3.0% wk; steady AI leader; hold |
+| GULF | ฿62.75 | +0.8% d, inside 58–70 alert band (no action); Thai energy = direct oil-shock beneficiary |
+| SPCX (SpaceX) | $146.21 | -4.7% TODAY; -34% from post-IPO high; honeymoon over — wait for stabilization before adding |
 
 ## Bottom line:
-**Flat-to-defensive for Wednesday.** The single biggest risk is an oil spike through $100 (Brent) before Friday's CPI — that combination reprices the entire rate path and hits your AI-concentrated book hardest (AMD, NVDA, CRCL). What changes the thesis: de-escalation in the Gulf (strait reopening, oil −$5+) or a cool CPI print Friday → that's the moment to reload risk, starting with ZS at $150–155. Until then, the market's record-high AI enthusiasm and $92 oil cannot both be right — don't add at highs, keep dry powder for Friday.
+Risk-off tilt for the day: the tape is sliding on its own weight (Dow -2.1% wk, small caps bleeding, VIX 16.3), and Friday's CPI into a coin-flip FOMC is the only excuse needed to accelerate. Biggest single risk: a hot August CPI confirming the oil shock — that flips the Fed to hike mode and breaks the AI-only tape. What changes the thesis: WTI back below $90 on de-escalation, or a soft CPI; either relieves the yields/CPI pressure and lets the S&P reclaim 7,700+. Until then: size stays lean, buy triggers (GDDY $82, RDDT $130, ZS $150–155) stay out of reach, and CRCL's Sep 16 window is the only live binary.
