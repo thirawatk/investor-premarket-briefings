@@ -15,7 +15,7 @@
 | DXY | 101.57 | +0.06% | Dollar unmoved; this is not a capital-flight event |
 | BTC | ~$76,185 | −5.5% / 24h | CoinGecko $75,995; ETH $2,236 (−7.7%) |
 
-**Breadth:** Leader XLC −0.59%, XLU −0.71%, XLP −0.75% / Laggard XLK −8.00%, XLI −4.13%. **Narrowing hard** — 10 of 11 SDPRs red, and the only "leaders" are defensives that refused to fall rather than sectors being bought. That is liquidation, not rotation.
+**Breadth:** Leader XLC −0.59%, XLU −0.71%, XLP −0.75% / Laggard XLK −8.00%, XLI −4.13%. **Narrowing hard** — 10 of 11 SPDRs red, and the only "leaders" are defensives that refused to fall rather than sectors being bought. That is liquidation, not rotation.
 
 Overnight tape: the US closed at the lows and Asia picked up the baton. Nikkei opened with futures down 7% (via @marketfeed) and cash is now 59,429 (−2.7%), with Advantest −14.7%, Tokyo Electron −9.4%, Disco −12.5%. Europe's FTSE closed −0.43% before the worst of it. S&P is −5.95% from its 1-year high; the Nasdaq-100 is −14.71%; the SOX is **−38.43%** from its high.
 
@@ -36,7 +36,7 @@ Overnight tape: the US closed at the lows and Asia picked up the baton. Nikkei o
 - **ZS $203.88 (−9.16%)** — add zone $150–155 is **$48.88–$53.88 (24–26%) below**. Not close.
 - **RDDT $93.81 (−7.93%)** — the $130 alert already fired Oct 30; price is now **$36.19 below it**. The alert is stale, not actionable.
 - **AMD $404.40 (−17.26%)** — worst in book-adjacent names; −28.6% over five sessions from $566.42.
-- **NVDA $181.60 (−9.26%)** — first close under $185 since the AI leg began.
+- **NVDA $181.60 (−9.26%)** — −15.0% over five sessions from $213.66; first sub-$185 close of this slide.
 - **GDDY $120.12 (+1.52%)** — the only green name; still **$38.12 (46%) above** the $82 alert. Watchlist only.
 - **GULF ฿62.50 (+2.46%)** — mid-band of ฿58–70 (฿4.50 above floor, ฿7.50 below ceiling). Thai cash opens 10:00 ICT today.
 - **SGOV $100.45 (0.00%)** — exactly flat, doing its job. −$0.22 vs $100.67 avg cost; ~$790/yr carry at 3.6%.
